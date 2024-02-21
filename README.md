@@ -1,2 +1,2 @@
 # GENAIHACKATHON
-Use Case 13; Convert PDF Tables into JSON Format
+Use Case 12: Convert PDF Tables into JSON Format
